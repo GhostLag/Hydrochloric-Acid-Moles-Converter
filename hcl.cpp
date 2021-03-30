@@ -3,7 +3,7 @@
 
 const double waterMol = 18;
 const double hydrochloricAcid = 30.9;
-const double beaker = 60;
+const double beaker = 20;
 
 int main() {
     double ratio1;
